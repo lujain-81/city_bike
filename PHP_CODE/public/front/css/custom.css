@@ -1,0 +1,52 @@
+.elementor-1131 .elementor-element.elementor-element-59149eb {
+    width: 24% !important;
+    max-width: 24% !important;
+}
+
+.elementor-53 .elementor-element.elementor-element-f6eaeba {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0 !important;
+    z-index: 99;
+}
+.badgeCart {
+    color: white;
+    position: absolute;
+    background: red;
+    top: -4px;
+    font-size: 9px;
+    left: 16px;
+    display: inline-block;
+    padding: .25em .4em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+}
+.elementor-12 .elementor-element.elementor-element-4ce5521 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 10px 0px 169px 0px !important;
+}
+.elementor .imagggg  img {
+    height: 200px !important;
+    max-width: 100%;
+    border: none;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.elementor-53 .elementor-element.elementor-element-0af8d4c:not(.elementor-motion-effects-element-type-background), .elementor-53 .elementor-element.elementor-element-0af8d4c > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    /*background-color: #FF5722 !important;*/
+}
+
+.elementor-kit-7 .elementor-button {
+
+    /*background-color: #ff5722 ;*/
+}
+
+.elementor-2380 .elementor-element.elementor-element-141613a0 .elementor-button[type="submit"] {
+    /*background-color: #ff5722 ;*/
+}
